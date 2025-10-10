@@ -1,3 +1,9 @@
+> [!IMPORTANT]  
+> An update regarding Raven in general and Betanet, which we highly recommend reading: [https://x.com/ravendevteam/status/1971816736052650057](https://x.com/ravendevteam/status/1971816736052650057)
+
+> [!IMPORTANT]  
+> Version 1.2 of the Betanet specification has been proposed and you can view the proposal here. This version significantly improves the specification and corrects many of the problems found in the current version. Please read it over and provide feedback if you have any.
+
 # Betanet Version 1.1 – Official Implementation Specification
 
 > **Normative document.** All requirements marked **MUST**, **MUST NOT**, or **SHALL** are mandatory for compliance.
